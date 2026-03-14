@@ -1,5 +1,7 @@
 # ENPM673 Project 2 Charles Nguyen
 
+## Github Repo Link
+- https://github.com/cnguye21-umd/ENPM661/tree/main/Project%202
 ## Libraries Used
 - numpy
 - cv2 (OpenCV)
