@@ -1,7 +1,5 @@
 # ENPM673 Project 4 Charles Nguyen
 
-## Github Repo Link
-- https://github.com/cnguye21-umd/ENPM661/tree/main/Project%202
 ## Libraries Used
 - docker
 - moveit
@@ -13,3 +11,8 @@
 4. source install/setup.bash
 5. In Terminal 1 run: ros2 launch moveit2_tutorial mtc_demo.launch.py
 6. In Terminal 2 run: ros2 launch package_116924733 proj4.launch.py
+
+## NOTE
+I did not make the pick and place script using the robot I prepped for moveit. That is why there are two packages.
+- package_116924733 is for my pick and place script
+- project_4_panda is the robot I made using the setup assistant
